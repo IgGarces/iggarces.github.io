@@ -1,5 +1,5 @@
 google.com, pub-8412868566226552, DIRECT, f08c47fec0942fa0
-facebook.com, 1923571094960160, DIRECT, c3e20eee3f780d68
+facebook.com, 1291275346317455, DIRECT, c3e20eee3f780d68
 inmobi.com, bb15bede9dd34158bba1428418d96e0e, DIRECT, 83e75a7ae333ca9d
 mintegral.com, 10003, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
